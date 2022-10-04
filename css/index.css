@@ -1,0 +1,7 @@
+.myVocab img{
+    height: 300px;
+}
+
+.myVocab {
+    min-height: 300px;
+}
